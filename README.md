@@ -1,5 +1,5 @@
 # lily-sat
-Dashboard for Filecoin [Lily Filecoin chain indexer](https://github.com/filecoin-project/lily)
+Dashboard for [Lily](https://github.com/filecoin-project/lily) Filecoin chain indexer
 
 ![screenshot](./images/screenshots/screenshot01.png)
 
