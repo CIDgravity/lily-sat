@@ -1,6 +1,8 @@
 # lily-sat
 Dashboard for Filecoin [Lily Filecoin chain indexer](https://github.com/filecoin-project/lily)
 
+![screenshot](./images/screenshots/screenshot01.png)
+
 ## Requirements :
   - A prometheus server consuming Lily APIs
   - A read-only Postgresql connection to Lily TimescaleDB.
